@@ -36,3 +36,4 @@ For lot three, the p-value is 0.04168 which means PSI across all manufacturing l
 
 ## Study Design: MechaCar vs Competition
 
+A statistical study that we would perform to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers would involve metrics such as cost, fuel efficiency, horse power and safety rating. These are all valuable factors of interest to many consumers. Our hypothesis is that MechaCar is well priced given its attributes and performance compared to other manufacturers. The null hypothesis is that MechaCar does not have any statistical differences compared to its competitors. The alternative hypothesis is that MechaCar is statistically similar compared to its competitors. To run the test, we would need data with all these factors from MechaCar and any valuable competition the researcher sees fit.
